@@ -1,3 +1,3 @@
 # Demo
 
-This is a simple photography website
+This is a simple photography website!
